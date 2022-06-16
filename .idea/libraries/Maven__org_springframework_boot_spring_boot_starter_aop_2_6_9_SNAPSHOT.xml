@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-aop:2.6.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.6.9-SNAPSHOT/spring-boot-starter-aop-2.6.9-20220616.114412-33.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.6.9-SNAPSHOT/spring-boot-starter-aop-2.6.9-20220616.114412-33-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.6.9-SNAPSHOT/spring-boot-starter-aop-2.6.9-20220616.114412-33-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
