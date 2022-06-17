@@ -13,7 +13,6 @@ import javax.persistence.*;
 @NoArgsConstructor
 @AllArgsConstructor
 
-
 public class Author {
 
     @Id
@@ -21,8 +20,8 @@ public class Author {
     private Long id;
 
     @Column(nullable = false, unique = true)
-    private String name;
+    private String nome;
 
     @Column(nullable = false)
-    private Integer age;
+    private Integer idade;
 }
