@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-actuator:2.6.9-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.6.9-SNAPSHOT/spring-boot-actuator-2.6.9-20220616.114412-33.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.6.9-SNAPSHOT/spring-boot-actuator-2.6.9-20220617.140114-37.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.6.9-SNAPSHOT/spring-boot-actuator-2.6.9-20220616.114412-33-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.6.9-SNAPSHOT/spring-boot-actuator-2.6.9-20220617.140114-37-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.6.9-SNAPSHOT/spring-boot-actuator-2.6.9-20220616.114412-33-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.6.9-SNAPSHOT/spring-boot-actuator-2.6.9-20220617.140114-37-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
